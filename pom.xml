@@ -23,7 +23,7 @@
             <dependency>
                 <groupId>io.quarkus</groupId>
                 <artifactId>quarkus-bom</artifactId>
-                <version>${quarkus.version}</version>
+                <version>${quarkus.platform.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
@@ -37,22 +37,22 @@
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-undertow</artifactId>
-            <version>${quarkus.version}</version>
+            <version>${quarkus.platform.version}</version>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-resteasy-jackson</artifactId>
-            <version>${quarkus.version}</version>
+            <version>${quarkus.platform.version}</version>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-jsonp</artifactId>
-            <version>${quarkus.version}</version>
+            <version>${quarkus.platform.version}</version>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-rest-client</artifactId>
-            <version>${quarkus.version}</version>
+            <version>${quarkus.platform.version}</version>
         </dependency>
     </dependencies>
     <build>
