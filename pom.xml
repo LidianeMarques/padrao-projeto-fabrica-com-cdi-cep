@@ -53,6 +53,7 @@
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-rest-client</artifactId>
             <version>${quarkus.platform.version}</version>
+<<<<<<< HEAD
         </dependency>
         <dependency>
             <groupId>jakarta.inject</groupId>
@@ -65,6 +66,8 @@
             <artifactId>javaee-web-api</artifactId>
             <version>7.0</version>
             <type>jar</type>
+=======
+>>>>>>> 851728871dc1136d2f1d5fea16e5ecbc829b7c80
         </dependency>
     </dependencies>
     <build>
