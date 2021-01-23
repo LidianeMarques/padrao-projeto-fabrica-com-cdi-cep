@@ -11,6 +11,7 @@
  
  [💉☕️ #2 INJEÇÃO de DEPENDÊNCIAS na prática com JAVA, CDI e QUARKUS: consumo de API REST de CEP](https://www.youtube.com/watch?v=pEanb1neZvs&feature=emb_title)
  
+</br>
 
  <p>Para entender melhor o conceito do projeto basta clicar nos links abaixo:</p>
  
@@ -25,6 +26,7 @@
 </div>
 
 
+<hr/>
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
