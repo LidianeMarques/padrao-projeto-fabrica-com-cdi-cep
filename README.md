@@ -1,4 +1,30 @@
-# padrao-projeto-fabrica-com-cdi-cep project
+# <h1 align="center"> Padrões de Projeto </h1>
+<hr/>
+
+## <h2 align="center">Padrões de Projetos Factory Method </h2>
+
+### <h3 align="center">FÁBRICAS com CDI e framework Quarkus</h3>
+
+<div align="justify">
+ 
+ <p> Neste projeto estou implementando o código do professor Manoel Campos, disponível no vídeo:</p>
+ 
+ [💉☕️ #2 INJEÇÃO de DEPENDÊNCIAS na prática com JAVA, CDI e QUARKUS: consumo de API REST de CEP](https://www.youtube.com/watch?v=pEanb1neZvs&feature=emb_title)
+ 
+
+ <p>Para entender melhor o conceito do projeto basta clicar nos links abaixo:</p>
+ 
+ [Consumo de Serviços de CEP com framework Quarkus](https://github.com/manoelcampos/quarkus-cep-services)
+ 
+ [💉☕️ #2 INJEÇÃO de DEPENDÊNCIAS na prática com JAVA, CDI e QUARKUS: consumo de API REST de CEP](https://www.youtube.com/watch?v=pEanb1neZvs&feature=emb_title)
+ 
+ 
+ <p></p>
+ 
+
+</div>
+
+
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
